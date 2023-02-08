@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://rom.download.nubia.com/Europe/NX679J/V416/NX679J-update.zip'
+        default: 'https://rom.download.nubia.com/Europe/NX709S/V418/NX709S-update.zip'
       ZIP_NAME:
-        description: 'ZIP_NAME'
+        description: 'OS_TYPE'
         required: true
-        default: 'NX679J-update.zip'
+        default: 'NX709SJ-update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true

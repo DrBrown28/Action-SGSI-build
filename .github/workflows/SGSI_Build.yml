@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://bigota.d.miui.com/V14.0.5.0.SJDCNXM/miui_APOLLO_V14.0.5.0.SJDCNXM_e727f2446b_12.0.zip'
+        default: 'http://romdownload.nubia.com/%E7%BA%A2%E9%AD%946/V8.18/NX669J-update.zip'
       ZIP_NAME:
         description: 'OS_TYPE'
         required: true
-        default: 'miui_APOLLO_V14.0.5.0.SJDCNXM_e727f2446b_12.0.zip'
+        default: 'NX669J-update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'nubia_os'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
